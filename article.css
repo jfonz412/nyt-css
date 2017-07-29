@@ -11,3 +11,13 @@
 	margin-right: 0px;
 	width: 540px;
 }
+
+.caption {
+	color: rgb(102, 102, 102);
+	font-family: georgia;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 17px;
+	
+}
